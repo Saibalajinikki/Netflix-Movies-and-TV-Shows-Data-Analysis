@@ -220,6 +220,6 @@ The next version of the analysis will involve removing null values based on the 
 - `README.md`: This file, providing an overview of the project.
 
 ## Acknowledgements
-This project utilizes data from Netflix, which provides a comprehensive view of the movies and TV shows available on their platform.
+This project utilizes data from Kaggle, which provides a comprehensive view of the movies and TV shows available on their platform.
 
 ```
